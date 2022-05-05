@@ -1,9 +1,10 @@
 checking things 
 put some change
 i have completed my entrance
-<<<<<<< HEAD
 
 i will successed in life
-=======
-i will complete bsc in 2024, lets check merge conflict
->>>>>>> 5ac70b81934db4212a6cf8e88421867bc53425b5
+
+i will complete bsc in 2024
+
+new line is added in feature branch
+
